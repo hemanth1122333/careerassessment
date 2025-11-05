@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Career Assessment Tool",
+  "description": "An interactive web application that helps students discover potential career paths by taking personalized assessments. An admin panel allows for dynamic management of assessment questions. Career recommendations are powered by the Gemini API.",
+  "requestFramePermissions": []
+}
